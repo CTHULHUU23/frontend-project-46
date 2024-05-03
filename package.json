@@ -4,6 +4,9 @@
   "type": "module",
   "description": "cli gendiff",
   "main": "src/index.js",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
