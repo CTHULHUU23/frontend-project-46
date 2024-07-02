@@ -7,3 +7,10 @@
 
 ### Workflow Status:
 ![nodeCI](https://github.com/CTHULHUU23/frontend-project-46/actions/workflows/nodeCI.yml/badge.svg)
+
+## Demonstration:
+### JSON files:
+[![asciicast](https://asciinema.org/a/rqMi5JE0qkTSNHyGfwSKxbpx7.png)](https://asciinema.org/a/rqMi5JE0qkTSNHyGfwSKxbpx7)
+
+### YAML files:
+[![asciicast](https://asciinema.org/a/sv74KEe0Cpk2oGJAwsrCaJr4S.png)](https://asciinema.org/a/sv74KEe0Cpk2oGJAwsrCaJr4S)
